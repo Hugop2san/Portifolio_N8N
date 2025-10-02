@@ -1,4 +1,4 @@
-# Portfólio de Automação N8N
+# Portfólio de Automação
 
 Bem-vindo ao meu portfólio!  
 Aqui compartilho alguns projetos de automação que desenvolvi, unindo inteligência artificial, integrações web, com ferramentas e fluxos de trabalho personalizados.  
@@ -13,9 +13,9 @@ Cada projeto tem título, link para demo (quando disponível), breve descrição
 
 <p align="left">
   <!-- Low-code / Automação -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="40" height="40" alt="n8n"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zapier/zapier-original.svg" width="40" height="40" alt="Zapier"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/n8n-%23000000.svg?style=for-the-badge&logo=n8n&logoColor=white" width="40" height="40" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Zapier-%23FF6A00.svg?style=for-the-badge&logo=Zapier&logoColor=white" width="40" height="40" alt="Zapier"/>
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" width="40" height="40" alt="Power BI"/>
   
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
