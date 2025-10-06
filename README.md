@@ -40,8 +40,8 @@ Cada projeto tem título, link para demo (quando disponível), breve descrição
 </p>
 
 -------
-## 📧 Classificador de Emails  
-**Demo:** [www.demo](#)  
+## Classificador de Emails  
+**Demo:** [https://classificacaoemail-huggingfaceai.onrender.com](#)  
 
 **Descrição:**  
 Projeto que utiliza **IA (Hugging Face)** para classificar emails em duas categorias:  
@@ -54,5 +54,33 @@ Projeto que utiliza **IA (Hugging Face)** para classificar emails em duas catego
 - Geração de respostas automáticas para emails classificados como improdutivos.  
 
 **Imagens:**  
-- ![Tela Classificação](./images/email_classifier_1.png)  
-- ![Exemplo Resposta](./images/email_classifier_2.png)  
+- ![alt text](image-4.png)  
+- ![alt text](image-5.png)
+
+-------
+## Chatbot de Atendimento Inteligente com IA
+**Demo:** [www.demo](#)  
+
+Descrição:
+
+Destaques técnicos:
+
+
+**Descrição:**  
+Projeto de Assistente Virtual Inteligente desenvolvido com um AI Agent para automatizar o atendimento ao cliente, oferecendo respostas contextualizadas de acordo com o produto e o core business da empresa.
+O chatbot atua como primeiro ponto de contato, reduzindo carga do time de suporte e aumentando a eficiência no atendimento.
+
+
+**Destaques técnicos:**  
+
+- Integração de fluxos no n8n para orquestração do atendimento.
+- Uso de Google Sheets como base de dados dinâmica para armazenar informações de produtos e FAQs.
+- Implementação de lógica condicional com If para personalização das respostas.
+- Estrutura com 3 agentes inteligentes trabalhando em conjunto para qualificar o fluxo de conversas (identificação de intenção, consulta de dados e resposta final).
+- Arquitetura flexível e escalável, permitindo expansão para novos produtos e cenários de negócio. 
+
+**Imagens:**  
+- ![alt text](image.png)
+- ![alt text](image-1.png)
+- ![alt text](image-2.png)
+- ![alt text](image-3.png)
